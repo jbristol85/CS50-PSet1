@@ -6,13 +6,13 @@ int main(void)
 
     int n;
 
-    do
+    do  // creates a loop that will ask for an input that is greater then 0
     {
         n = get_int("Minutes: ");
 
     }
-   while(n < 0);
+    while (n < 0);
 
-     printf("Bottles: %i\n", n * 12);
+    printf("Bottles: %i\n", n * 12);  // returns the quantity of bottles
 
 }
