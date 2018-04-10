@@ -1,3 +1,5 @@
+//pr ss - good use of descriptive variable names & clear comments thru-out
+
 #include <stdio.h>
 #include <cs50.h>
 
