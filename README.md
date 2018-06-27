@@ -1,4 +1,4 @@
-Coursework from CS50:
+Solutions from Harvard CS50:
 
 Pset 1: https://github.com/jbristol85/CS50-PSet1
 
